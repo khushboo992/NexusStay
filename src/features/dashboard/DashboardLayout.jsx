@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { useRecentBookings } from "./useRecentBookings";
 import { useRecentStays } from "./useRecentStays";
 import { useCabins } from "../cabins/useCabins";
-import Stats from "./stats";
+import Stats from "./Stats";
 import TodayActivity from "../check-in-out/TodayActivity";
 
 import Spinner from "../../ui/Spinner";
